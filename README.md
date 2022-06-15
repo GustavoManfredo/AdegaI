@@ -64,38 +64,38 @@ Para acessar o arquivo com as descrições minimas, <a target="_blank" href="htt
 
 <h4>Login > onde haverá a necessidade de fazer o login (dois tipos de usuários: Padrão | Administrador) para acessar o programa.</h4>
 
-![login](https://cdn.discordapp.com/attachments/971242717805953084/986743564828573767/unknown.png)
+![login](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/login.png?raw=true)
 
 <br><br>
 
 <h4>Home > onde em primeira mão terá acesso a todas funcionalidades do sistema (caso for administrador) e um resumo de vendas/clientes.</h4>
   
-![home1](https://cdn.discordapp.com/attachments/971242717805953084/986743962855432222/unknown.png)
+![home1](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/home.png?raw=true)
   
 <br><br>
 
 <h4>Vendas > onde serão realizadas todas as vendas, adicionando um cliente por venda, e N produtos</h4>
 
-![vendas](https://cdn.discordapp.com/attachments/971242717805953084/986744029314154496/unknown.png)
+![vendas](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/venda.png?raw=true)
 
 <br><br>
 
 <h4>Contatos > onde serão cadastrados todos tipos de contatos (Cliente, Funcionário, Administrador) dependendo do seu nivel de acesso, e também podendo realizar exclusão de contato.</h4>
 
-![contatos](https://cdn.discordapp.com/attachments/971242717805953084/986744093130489886/unknown.png)
+![contatos](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/contatos.png?raw=true)
 
 <br><br>
 
 <h4>Produtos > onde serão cadastrados todos tipos de produtos e também seu gerenciamento de estoque. Podendo também excluir algum produto.</h4>
 
-![produtos](https://cdn.discordapp.com/attachments/971242717805953084/986744165377380362/unknown.png)
+![produtos](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/produtos.png?raw=true)
 
 <br><br>
 
 <h4>Relatórios > onde serão gerados todos tipos de relatórios pré-determinados (Todos Clientes, Todas as Vendas, Vendas por período)</h4>
 
 
-![relatórios](https://cdn.discordapp.com/attachments/971242717805953084/986744234453389322/unknown.png)
+![relatórios](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/relatorios.png?raw=true)
 
 <br><br>
 
@@ -103,7 +103,7 @@ Para acessar o arquivo com as descrições minimas, <a target="_blank" href="htt
 Nosso banco de dados foi construído utilizando a Tecnologia MySQL Server | MySQL WorckBench
 <br><br>
 _script da criação do banco_
-![BD_Fisico](https://cdn.discordapp.com/attachments/971242717805953084/986743577692504064/BD_LOGICO.png)
+![DB](https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/2%20-%20Prints/BD_LOGICO.png?raw=true)
 <br><br>
 
 # 💻 Tecnologias
