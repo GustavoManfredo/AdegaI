@@ -51,12 +51,10 @@ Seu design foi elaborado pelo Figma e exportado em PNG, assim como todas animaç
 Você pode acessar o design <a target="_blank" href="https://www.figma.com/file/abfbURvUOKlSWdt0GctN23/Projeto---Adega%C3%8D?node-id=0%3A1">clicando aqui.</a>
 
 <br>
-Houve a junção de duas matérias para o desenvolvimento do mesmo projeto, nas quais: 
-<p>
-  
+Houve a junção de duas matérias para o desenvolvimento do mesmo projeto, nas quais são: 
+
 _*Modelagem de Software || Programação de Soluções Computacionais*_
-  
-</p>
+
 Para acessar o arquivo com as descrições minimas, <a target="_blank" href="https://github.com/GustavoManfredo/AdegaI/blob/master/4%20-%20Documentos/projeto.pdf">clique aqui.</a>
 </div>
 
