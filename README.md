@@ -124,31 +124,6 @@ _script da criação do banco_
   </div>
 </div>
 
-<style>
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-
-</style>
-
 # 🔐 Licença
 
 <br>
