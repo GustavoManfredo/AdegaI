@@ -15,19 +15,30 @@
     <br />
     <a href="https://github.com/GustavoManfredo/AdegaI/issues">Reporte um Bug</a>
   </p>
-  
+
+  </div>
+
   ___
-  
+
+<div align="center">
+
 # 📌 Índice
+
+</div>
 
 * [Resumo](#📝-resumo)
 * [Projeto](#💻-projeto)
 * [Banco de Dados](#🗄-banco-de-dados)
 * [Tecnologias](#💻-tecnologias)
-* [Grupo](#🏆-grupo)
 * [Licença](#🔐-licença)
 
+<div align="center">
+
 # 📝 Resumo
+
+</div>
+
+<div align="justify">
 
 Este projeto foi construído e pensado para o controle e venda de uma adega, ele foi projetado para a conclusão do 3º Semestre da Faculdade (Sistemas de Informação). Onde o mesmo tinha que ter alguns requisitos minimos para sua entrega e apresentação.
 <br><br>
@@ -46,6 +57,9 @@ _*Modelagem de Software || Programação de Soluções Computacionais*_
   
 </p>
 Para acessar o arquivo com as descrições minimas, <a target="_blank" href="https://github.com/GustavoManfredo/AdegaI/blob/master/4%20-%20Documentos/projeto.pdf">clique aqui.</a>
+</div>
+
+<div align="center">
 
 # 💻 Projeto
 
@@ -101,30 +115,20 @@ _script da criação do banco_
 - ``Java Connector 8.0.29``
 - ``Figma``
 
-# 🏆 Team
 
-<div class="row">
-  <div class="column">
-    <h6>João Pedro Dias Caparroz</h6>
-    <a href="https://github.com/jpcaparroz">
-        <img height="150" width="150" src="https://avatars.githubusercontent.com/u/72393735?v=4" alt="João Caparroz" style="border-radius:50%">
-    </a>
-  </div>
-  <div class="column">
-    <h6>Gustavo Manfredo</h6>
-    <a href="https://github.com/GustavoManfredo">
-        <img height="150" width="150" src="https://avatars.githubusercontent.com/u/93175922?v=4" alt="Gustavo Manfredo" style="border-radius:50%">
-    </a>
-  </div>
-  <div class="column">
-    <h6>Any Santos</h6>
-    <a href="https://github.com/santosany">
-        <img height="150" width="150" src="https://avatars.githubusercontent.com/u/91764564?v=4" alt="Any Santos" style="border-radius:50%">
-    </a>
-  </div>
+# Team
 </div>
+
+![João Caparroz](https://img.shields.io/badge/-João_Caparroz-303030?style=flat&logo=github)
+
+![AnySantos](https://img.shields.io/badge/-Any_Santos-303030?style=flat&logo=github)
+
+
+<div align="center">
 
 # 🔐 Licença
 
 <br>
 Acesse a lincença desse projeto <a target="_blank" href="https://github.com/GustavoManfredo/AdegaI/blob/master/LICENSE.md">clicando aqui.</a>
+
+</div>
