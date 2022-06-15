@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GustavoManfredo/AdegaI">
-    <img src="https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/logo.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/GustavoManfredo/AdegaI/blob/master/3%20-%20Images/logo.png?raw=true" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">AdegaÍ</h3>
@@ -26,11 +26,12 @@
 
 </div>
 
-* [Resumo](#📝-resumo)
-* [Projeto](#💻-projeto)
-* [Banco de Dados](#🗄-banco-de-dados)
-* [Tecnologias](#💻-tecnologias)
-* [Licença](#🔐-licença)
+* [Resumo](#-resumo)
+* [Projeto](#-projeto)
+* [Banco de Dados](#-banco-de-dados)
+* [Tecnologias](#-tecnologias)
+* [Team](#-team)
+* [Licença](#-licença)
 
 <div align="center">
 
@@ -116,15 +117,19 @@ _script da criação do banco_
 - ``Figma``
 
 
-# Team
-</div>
+# 👨‍💻 Team
 
-![João Caparroz](https://img.shields.io/badge/-João_Caparroz-303030?style=flat&logo=github)
+<a href="https://github.com/GustavoManfredo" target="_blank">
+    <img alt="Gustavo Manfredo" src="https://img.shields.io/badge/Gustavo_Manfredo-303030?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-![AnySantos](https://img.shields.io/badge/-Any_Santos-303030?style=flat&logo=github)
+<a href="https://github.com/jpcaparroz" target="_blank">
+    <img alt="João Pedro Caparroz" src="https://img.shields.io/badge/João_Pedro_Caparroz-303030?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-
-<div align="center">
+<a href="https://github.com/santosany" target="_blank">
+    <img alt="Any Santos" src="https://img.shields.io/badge/Any_Santos-303030?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 # 🔐 Licença
 
